@@ -9,12 +9,12 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Luna Fothergill's Awesome Blog`,
     author: {
       name: `Luna Fothergill,`,
-      summary: `a new essayist and graphic designer.`,
+      summary: `a new essayist and graphic designer, as well as an avid puzzle solver.`,
     },
-    description: `Luna's Blog!.`,
+    description: `Luna's Blog! I post things about all sorts of stuff.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
       twitter: `none`,
