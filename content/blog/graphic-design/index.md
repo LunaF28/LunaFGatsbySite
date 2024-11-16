@@ -1,7 +1,7 @@
 ---
 title: Graphic Design
 date: "2024-11-15T22:12:03.284Z"
-description: "Some graphic design that I have done."
+description: "Some graphic design work that I have done."
 ---
 ## Table of Contents
 
