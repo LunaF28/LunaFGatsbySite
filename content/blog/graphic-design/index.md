@@ -49,12 +49,6 @@ This first graphic design project is my senior project presentation for my senio
 
 ## Other Work For The Councilman
 
-## Volunteering Opportunities Poster
-
-<p align="center">
-  <img src="img/volunteer-opportunities.png" alt="Volunteer Opportunities" width="600px">
-</p>
-
 ### Volunteering Opportunities Poster
 
 ![Councilman Conway Volunteering Opportunities Flyer](volunteer-opportunities.png)
