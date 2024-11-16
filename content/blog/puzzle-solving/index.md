@@ -38,6 +38,20 @@ Nurikabe is a puzzle that tests both the intuition and analytical skills of the 
 
 ## Nurikabe Essay Commentary
 
+Nurikabe is a puzzle I found by chance, and these three things really stuck with me:
+
+- Its simplicity
+- Its difficulty
+- Its terribly described rules
+
+The first two I get into in the essay, but the third I'll talk about here. The site I first found it on, [puzzle-nurikabe.com](https://www.puzzle-nurikabe.com/), has the most incomprehensible ruleset of all time, so much so that my first puzzle (the likes of which I can solve in under 10 seconds now) took me almost 15 minutes to solve, and I completed it out of sheer luck. I spent so much time trying to decipher what things like an `n-omino` were, and how to even ***draw things correctly on the board***. This awful description made me determined to solve the first puzzle, understanding what Nurikabe even was, and then solve the second puzzle, Nurikabe itself.
+
+The hardest Nurikabe I have completed, the October monthly Nurikabe ([Here is the one for November!](https://www.puzzle-nurikabe.com/?size=13)), is pictured below.
+
+### October 2024 Monthly Nurikabe
+
+![October 2024 Monthly Nurikabe](monthlynuri.png)
+
 ## [Baba] [is] [You], [Flag] [is] [Win]
 
 Beginning to play Baba Is You is like entering a fever dream. You go from being a human living in a world full of untold rules and regulations to being a pixelated one tile wide rabbit in a 2D tiled world with very specific rules. Baba Is You is a video game that can be found on Steam for $10, and is absolutely worth the price. The game itself is about bending the rules that are given to you in order to win each level. 
@@ -55,5 +69,21 @@ In the level “Dim Signal”, the goal of the level is to connect three disconn
 
 When I first began to play Baba is you, I was intrigued by the rapidly scaling difficulty of the puzzles, and also the massive amount of levels there are. In my 90 hours of playtime so far, I have completed nearly 200 levels, and still have over 100 left incomplete. For many of those 100, there is a mechanic of the game that I’m yet to understand or discover, and that’s what brings me back to Baba Is You every time. This is the other reason that I continue to open Baba Is You after so much time: The idea of not fully understanding the game yet. There are times where I’ll play a single level for 20 or 30 minutes and not be any closer to completing it than I was when I first started that day and I love that. Puzzles tend to come easy to me, so when one doesn’t it gets me excited and I rarely wanna stop trying to solve it until it’s done. Baba Is You hits that perfect level of difficulty, where I have to think for so long to solve certain levels but it is so rare that I will look at a level and just think that it looks impossible. And even when there are levels that I thought were impossible like “Deep Pool,” and I always eventually find a solution. It can take me 5+ hours and tens of failed attempts and slight tweaks to my ideas, but if I think hard and long enough I can always win. I play Baba Is You because it is hard, it is fun, and because it always has a solution. For many levels the solution I find may not be the same one that the creator found, or that any other player will find, but as long as [You] gets to [Win], I’m happy.
 
-
 ## Baba Is You Essay Commentary
+
+I have played Baba Is You for over 125 hours now, solving exactly 270 levels in that time. This means per hour I have played (I have spent very little of it [AFK](https://www.grammarly.com/blog/acronyms-abbreviations/afk-meaning/)), I have solved an average of slightly over 2 levels. This game is *hard*, but that's exactly why I love it. The game has enough easy levels for a beginner puzzle solver to get maybe 10-15 hours of playtime, which is a lot for someone who doesn't care too much for puzzles. However past that, the levels become a lot harder. The game introduces more objects and more keywords (that have some very confusing properties). Take [Fall] for example, for some reason it lets you avoid any damage you fall through, or [Auto], which is similar to [Move] but the object will only go in the direction you push it until it hits a wall. Each level deeper I go into the map, the longer it takes me, and I will forever enjoy that about this game. Opening a level ten if not twenty times before finally figuring out a solution is amazing, because each time I don't solve the level adds to the amazing feeling I get when I finally do. 
+
+Below I have put an image of my favorite level, Dim Signal (Museum level F, not Solitary Island Extra 4), which is my favorite because it involves both using move and then making sure to conserve the rest of your text objects so you can push the last [and] into place. I have also put a screenshot of a custom level that I made over a year ago with the goal of making something overly complicated and very difficult to read. My level requires this specific input sequence to not immediately lose due to the level melting, a piece of text turning into Love and destroying you, or the [Win] text being destroyed by the Moon:
+
+<details>
+  <summary>Click to reveal the input sequence! Don't click if you wish to solve it yourself!</summary>
+  Up, Right, Down, Right, Down, Right, Down
+</details>
+
+### Dim Signal (Museum)
+
+[Dim Signal (Museum)](DimSignalF.png)
+
+### My Baba Is You Level
+
+[My Baba Is You Level](REALMYBABA.png)
