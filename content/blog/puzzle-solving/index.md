@@ -82,8 +82,8 @@ Below I have put an image of my favorite level, Dim Signal (Museum level F, not 
 
 ### Dim Signal (Museum)
 
-[Dim Signal (Museum)](DimSignalF.png)
+![Dim Signal (Museum)](DimSignalF.png)
 
 ### My Baba Is You Level
 
-[My Baba Is You Level](REALMYBABA.png)
+![My Baba Is You Level](REALMYBABA.png)
